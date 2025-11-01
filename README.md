@@ -14,5 +14,5 @@
 ---
 
 ### 🌟 My Spotlight Projects  
-- 📈 [Interest Rate Modelling using Python](https://github.com/celia-aviana/The-Relationship-Between-EURIBOR-Inflation-and-Unemployment-Rate-with-Python) — Time-series & regression analysis on EURIBOR & inflation data  
+- 📈 [Interest Rate Modelling using Python](https://github.com/celiaaviana7/The-Relationship-Between-EURIBOR-Inflation-and-Unemployment-Rate-with-Python) — Time-series & regression analysis on EURIBOR & inflation data  
 
