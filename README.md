@@ -3,7 +3,7 @@
 ---
 
 ### About Me  
-- 🎓 I'm currently doing **MSc in International Finance** at **Rennes School of Business, France**  
+- 🎓 I'm currently doing [**MSc in International Finance**](https://www.rennes-sb.com/programmes/postgraduate/discover-masters/master-of-science-in-international-finance/) at **Rennes School of Business, France**
 - 💼 Experienced in **Finance & Accounting**, **Capital Market Advisory**, and **Investment Banking**  
 - 💻 Learning **Python**, **Data Analytics**, and **Financial Modelling**  
 - 📊 Looking for opportunities in **Finance**, **Data Analytics**, or **Investment Banking**  
