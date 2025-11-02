@@ -14,5 +14,5 @@
 ---
 
 ### 🌟 My Spotlight Projects  
-- 📈 [Interest Rate Modelling using Python](https://github.com/celiaaviana7/The-Relationship-Between-EURIBOR-Inflation-and-Unemployment-Rate-with-Python) — Time-series & regression analysis on EURIBOR & inflation data  
-
+- 📈 [Interest Rate Modelling using Python](https://github.com/celiaaviana7/The-Relationship-Between-EURIBOR-Inflation-and-Unemployment-Rate-with-Python) — Time-series & regression analysis on EURIBOR & inflation data
+- 🌍 [Competing Logics in the Nexus of ESG Performance and Firm’s Value: The Case of GCC and Other Emerging Economies](https://github.com/celia-aviana/Competing-Logics-ESG-Performance-and-Firm-Value) — Empirical analysis of ESG indicators and firm valuation across emerging markets
